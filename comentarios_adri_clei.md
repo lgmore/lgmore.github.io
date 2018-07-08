@@ -26,7 +26,7 @@ y palabras clave.
 # Review 2
 ---------------
 
-¿Cuál es el sentido del título en inglés y el texto en español? El
+> ¿Cuál es el sentido del título en inglés y el texto en español? El
 Conjunto Pareto por ser nombre propio debe ser escrito en letra
 mayúscula. Se trata de un trabajo 100% práctico de encontrar cuál es la
 mejor métrica que se adapta a los fines esperados. Durante la lectura me
@@ -39,3 +39,4 @@ claro porque el proceso SSIM presentó el mejor resultado. Puedo ver
 visualmente, sin embargo, un análisis teórico podría contestar si una
 radiografía del oído obtendría el mismo éxito.
 
+Los Comentarios arriba expuestos deben verse reflejados en el paper camera ready y en el libro.
