@@ -40,3 +40,18 @@ visualmente, sin embargo, un análisis teórico podría contestar si una
 radiografía del oído obtendría el mismo éxito.
 
 Los Comentarios arriba expuestos deben verse reflejados en el paper camera ready y en el libro.
+
+## Comentarios Internos
+---------------
+
+### 1. Introducción
+-------------------
+
+> Sin embargo, éste y la mayorı́a de los otros métodos de mejora de
+contraste pueden producir imágenes de aspecto no naturales,
+lo que ocasiona que aquellas obtenidas por estos métodos no
+son las deseables.
+
+Sin embargo, éste y la mayorı́a de los otros métodos de mejora de
+contraste pueden producir imágenes de aspecto ~~no naturales~~ no natural,
+lo que ocasiona que aquellas obtenidas por estos métodos no ~~son las deseables~~ sean las deseables.
