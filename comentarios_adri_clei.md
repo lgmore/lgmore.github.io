@@ -47,78 +47,84 @@ Los Comentarios arriba expuestos deben verse reflejados en el paper camera ready
 ### 1. Introducción
 -------------------
 
-> Sin embargo, éste y la mayorı́a de los otros métodos de mejora de
+> ~~Sin embargo, éste y la mayorı́a de los otros métodos de mejora de
 contraste pueden producir imágenes de aspecto no naturales,
 lo que ocasiona que aquellas obtenidas por estos métodos no
-son las deseables.
+son las deseables.~~
 
-Sin embargo, éste y la mayorı́a de los otros métodos de mejora de
-contraste pueden producir imágenes de aspecto ~~no naturales~~ no natural,
-lo que ocasiona que aquellas obtenidas por estos métodos no ~~son las deseables~~ sean las deseables.
+~~Sin embargo, éste y la mayorı́a de los otros métodos de mejora de
+contraste pueden producir imágenes de aspecto no naturales no natural,
+lo que ocasiona que aquellas obtenidas por estos métodos no son las deseables sean las deseables.~~
 
 ### 2. MÉTRICAS DE EVALUACIÓN DE IMÁGENES
 -------------------
 
-En la ecuación 1, $\mathscr{H} \in []$, debe ir con corchetes.
+~~En la ecuación 1, $\mathscr{H} \in []$, debe ir con corchetes.~~
 
 
-* En 2B, *** ojo con la nomenclatura *** pusieron $M \times N$ para definir tamaño de una vecindad, pero da a entender que la vecindad es toda la imagen, porque usan también $M \times N$ para definir el tamaño de toda la imagen.
+~~* En 2B, *** ojo con la nomenclatura *** pusieron $M \times N$ para definir tamaño de una vecindad, pero da a entender que la vecindad es toda la imagen, porque usan también $M \times N$ para definir el tamaño de toda la imagen.~~
 
 ### 3. Planeamiento del problema
 --------------------------------
-> En el tratamiento de imágenes, frecuentemente es necesario
+~~> En el tratamiento de imágenes, frecuentemente es necesario
 detectar caracterı́sticas de interés que pueden ser utilizadas
-para un análisis posterior,
+para un análisis posterior,~~
 
-En el tratamiento de imágenes, frecuentemente es necesario
+~~En el tratamiento de imágenes, frecuentemente es necesario
 detectar caracterı́sticas de interés que pueden ser utilizadas
-para un análisis posterior,
+para un análisis posterior,~~
 
 ### 4. Proupesta
 -----------------
-> Se buscan métricas que aporten valores más cercanos a la
-realidad,
+> ~~Se buscan métricas que aporten valores más cercanos a la
+realidad,~~
 
-?
+~~?~~
 
-> Dados la imagen de entrada f 1 , en escala de gris de tamaño
+> ~~Dados la imagen de entrada f 1 , en escala de gris de tamaño
 M × N y el algortimo CLAHE, se desea calcular la mejor
 solución que nos indique que dichas métricas son altamente
 contradictorias, minimizando la combinación de las funciones
-objetivos T A y T B , tal que:
+objetivos T A y T B , tal que:~~
 
-Dados la imagen de entrada f 1 , en ~~escala de gris~~ escala de grises de tamaño
+~~Dados la imagen de entrada f 1 , en escala de gris escala de grises de tamaño
 M × N y el algortimo CLAHE, se desea calcular la mejor
 solución que nos indique que dichas métricas son altamente
-contradictorias, minimizando la combinación de las ~~funciones
-objetivos~~ funciones objetivo T A y T B , tal que:
+contradictorias, minimizando la combinación de las funciones
+objetivos funciones objetivo T A y T B , tal que:~~
 
-> Se incorpora un mecanismo de restricción 10 sobre la
+> ~~Se incorpora un mecanismo de restricción 10 sobre la
 ecuación 9 para limitar la velocidad máxima de las partı́culas
-y mejorar la capacidad de búsqueda del algoritmo [2].
+y mejorar la capacidad de búsqueda del algoritmo [2].~~
 
-Se incorpora un mecanismo de restricción ~~10~~ (véase Ecuación 10) sobre la
+~~Se incorpora un mecanismo de restricción 10 (véase Ecuación 10) sobre la
 ecuación 9 para limitar la velocidad máxima de las partı́culas
-y mejorar la capacidad de búsqueda del algoritmo [2].
+y mejorar la capacidad de búsqueda del algoritmo [2].~~
 
 > De manera a obtener Frentes de Pareto Robusto de acuerdo
-a la ecuación 14.
+a la ecuación 15.
 
 Nuevamente no hay citaciones que ayuden a sentar la teoría de Optimización Robusta.
+
+En la propuesta, puse un diagrama para tratar de entender mejor el proceso de pso-clahe robusto. Ahora mismo necesita refinar, es un bosquejo inicial.
 
 ### 5. Resultados y Discusión
 -----------------
 
-> Se analizó el comportamiento del Conjunto Pareto resultante
+> ~~Se analizó el comportamiento del Conjunto Pareto resultante
 de cada imagen procesada, al considerar como una sola entrada
 el conjunto de todas las imágenes y realizar el cálculo de la
 Entropı́a Local II-B y SSIM II-C entre todas las imágenes; de
 esta forma se obtuvo el Frente Pareto Robusto; y se consideró
 el Frente Pareto óptimo de una imagen f , como el Frente
 Pareto de las N-1 imágenes y se obtuvo el Frente Pareto
-Promedio de la imagen f como se observa en la Figura 3.
+Promedio de la imagen f como se observa en la Figura 3.~~
 
-El párrafo no se entiende bien
+~~El párrafo no se entiende bien~~
+
+Es necesario explicar qué se contrasta al poner los plots de frente pareto robusto versus frente pareto óptimo. OJO ESTO ES IMPORTANTE, de manera a entender las gráficas 
+
+También, ¿los frentes pareto robustos no deberían ser iguales en todos los ploteados? o no se entiende nomás bien por los tamaños de las figuras
 
 ### VI.C ONCLUSIONES Y T RABAJOS F UTUROS
 ------------------------------------------
