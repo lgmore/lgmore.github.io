@@ -80,6 +80,15 @@ para un análisis posterior,~~
 detectar caracterı́sticas de interés que pueden ser utilizadas
 para un análisis posterior,~~
 
+> CLAHE es  un  refinamiento  de AHE
+Falta citación para AHE
+
+> \begin{equation}\label{restriccion}
+>    \kappa   = \frac{2}{2 - \sigma - \sqrt[]{ \sigma^2 - 4 \sigma}}
+>\end{equation}
+
+¿qué son los sigma en la ecuación 11?
+
 ### 4. Proupesta
 -----------------
 > ~~Se buscan métricas que aporten valores más cercanos a la
@@ -132,12 +141,16 @@ Es necesario explicar qué se contrasta al poner los plots de frente pareto robu
 
 También, ¿los frentes pareto robustos no deberían ser iguales en todos los ploteados? o no se entiende nomás bien por los tamaños de las figuras
 
+Las imágenes originales también tienen ssim y entropía local, es necesario agregar a todas las figuras para comparar mejor.
+
+por qué usaron resultados que salieron de optimizar con entropía/ltg, y después otros resultados que salieron de optimizar con entropía/ssim?
+
 ### VI.C ONCLUSIONES Y T RABAJOS F UTUROS
 ------------------------------------------
 
-> Tabla II: Promedio de la correlación de Pearson.
+> ~~Tabla II: Promedio de la correlación de Pearson.~~
 
-Ésta tabla no debería ir en las conclusiones, más bien en la discusión.
+~~Ésta tabla no debería ir en las conclusiones, más bien en la discusión.~~
 
 > Al analizar los Frentes Paretos óptimos de las imágenes
 procesadas, se observa que la solución óptima de una imagen
