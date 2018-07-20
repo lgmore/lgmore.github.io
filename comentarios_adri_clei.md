@@ -10,10 +10,10 @@ resultados, esto es recomendable para hacer notar el avance de
 investigación.
 
 > - Se observa buena representación y discusión de los resultados con
-tablas y gráficas. En las conclusiones se sugiere profundizar más. - No
+tablas y gráficas. En las conclusiones se sugiere profundizar más. ~~- No
 mencionan como determinaron los valores de los dos parámetros del
 algoritmo CLAHE, que son: Block Size y Clip Limit, según la bibliofrafía
-del tema.
+del tema.~~
 
 > - El artículo está bien estructurado y completo. Aunque el título hace
 referencia a un nombre diferente de algoritmo de optimización
@@ -63,6 +63,12 @@ lo que ocasiona que aquellas obtenidas por estos métodos no son las deseables s
 
 
 ~~* En 2B, *** ojo con la nomenclatura *** pusieron $M \times N$ para definir tamaño de una vecindad, pero da a entender que la vecindad es toda la imagen, porque usan también $M \times N$ para definir el tamaño de toda la imagen.~~
+
+Luego de la ecuación 1, no se definen n_k ni Z
+
+En la ecuación 2, hay dos temas que necesitan revisión:
+1. debería definirse n_k con otra nomenclatura, porque no es el mismo n_k de la ecuación 1
+2. E(vij) debería ser E(I), es decir de toda la imagen. Ahora mismo da a entender que la entropía local se aplica solamente a una vecindad. Ahora bien, ¿todas las entropías locales se promedian, o cómo se obtiene la entropía local final? Debe quedar claro en la ecuación 2.
 
 ### 3. Planeamiento del problema
 --------------------------------
