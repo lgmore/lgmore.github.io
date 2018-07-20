@@ -1067,10 +1067,10 @@ investigación.</p>
 </li>
 <li>
 <p>Se observa buena representación y discusión de los resultados con
-tablas y gráficas. En las conclusiones se sugiere profundizar más. - No
+tablas y gráficas. En las conclusiones se sugiere profundizar más. <del>- No
 mencionan como determinaron los valores de los dos parámetros del
 algoritmo CLAHE, que son: Block Size y Clip Limit, según la bibliofrafía
-del tema.</p>
+del tema.</del></p>
 </li>
 <li>
 <p>El artículo está bien estructurado y completo. Aunque el título hace
@@ -1117,6 +1117,10 @@ lo que ocasiona que aquellas obtenidas por estos métodos no son las deseables s
 <hr />
 <p><del>En la ecuación 1, $\mathscr{H} \in []$, debe ir con corchetes.</del></p>
 <p><del>* En 2B, <strong><em> ojo con la nomenclatura </em></strong> pusieron $M \times N$ para definir tamaño de una vecindad, pero da a entender que la vecindad es toda la imagen, porque usan también $M \times N$ para definir el tamaño de toda la imagen.</del></p>
+<p>Luego de la ecuación 1, no se definen n_k ni Z</p>
+<p>En la ecuación 2, hay dos temas que necesitan revisión:
+1. debería definirse n_k con otra nomenclatura, porque no es el mismo n_k de la ecuación 1
+2. E(vij) debería ser E(I), es decir de toda la imagen. Ahora mismo da a entender que la entropía local se aplica solamente a una vecindad. Ahora bien, ¿todas las entropías locales se promedian, o cómo se obtiene la entropía local final? Debe quedar claro en la ecuación 2.</p>
 <h3 id="3-planeamiento-del-problema">3. Planeamiento del problema<a class="headerlink" href="#3-planeamiento-del-problema" title="Permanent link"></a></h3>
 <hr />
 <p><del>&gt; En el tratamiento de imágenes, frecuentemente es necesario
