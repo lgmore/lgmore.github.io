@@ -31,7 +31,7 @@ y palabras clave.
 # Review 2
 ---------------
 
-> ¿Cuál es el sentido del título en inglés y el texto en español? El
+> ~~¿Cuál es el sentido del título en inglés y el texto en español? El
 Conjunto Pareto por ser nombre propio debe ser escrito en letra
 mayúscula. Se trata de un trabajo 100% práctico de encontrar cuál es la
 mejor métrica que se adapta a los fines esperados. Durante la lectura me
@@ -42,13 +42,13 @@ claro si el proceso adoptado puede ser aplicado para otros procesos de
 análisis de imágenes que no los de contraste negativo, así como no quedó
 claro porque el proceso SSIM presentó el mejor resultado. Puedo ver
 visualmente, sin embargo, un análisis teórico podría contestar si una
-radiografía del oído obtendría el mismo éxito.
+radiografía del oído obtendría el mismo éxito.~~
 
-**Titulo y abstract deben ir en ingles**
+~~**Titulo y abstract deben ir en ingles**~~
 
-**En la tabla de correlaciones agregar una explicación de los valores de correlación negativa. Básicamente, una correlación negativa indica que el mejoramiento de una función objetivo se logra a costa del empeoramiento de la otra función objetivo en un contexto de minimización o maximización de ambas. Es decir, son funciones objetivo contradictorias.**
+~~**En la tabla de correlaciones agregar una explicación de los valores de correlación negativa. Básicamente, una correlación negativa indica que el mejoramiento de una función objetivo se logra a costa del empeoramiento de la otra función objetivo en un contexto de minimización o maximización de ambas. Es decir, son funciones objetivo contradictorias.**~~
 
-**Agregar en trabajos futuros, el análisis de desempeño de la propuesta en imágenes de otra naturaleza.**
+~~**Agregar en trabajos futuros, el análisis de desempeño de la propuesta en imágenes de otra naturaleza.**~~
 
 **Los Comentarios arriba expuestos deben verse reflejados en el paper camera ready y en el libro.**
 
