@@ -18,15 +18,15 @@ mencionan como determinaron los valores de los dos parámetros del
 algoritmo CLAHE, que son: Block Size y Clip Limit, según la bibliofrafía
 del tema.~~
 
-> - El artículo está bien estructurado y completo. Aunque el título hace
+> ~~- El artículo está bien estructurado y completo. Aunque el título hace
 referencia a un nombre diferente de algoritmo de optimización
 multiobjetivo que no se menciona en el cuerpo del artículo. Las
 abreviaturas o nombres de algoritmos se referencian a su respectivo
 autor desde el primer momento en que se mencionan, tal es el caso de
 SMPSO en el 7mo párrafo de la Introducción. Arreglar idioma del resumen
-y palabras clave.
+y palabras clave.~~
 
-**Agregar el pseudocódigo de smpso-clahe y un párrafo explicativo indicando cuál es la entrada de datos, la salida y lo que se realiza en cada línea.**
+~~**Agregar el pseudocódigo de smpso-clahe y un párrafo explicativo indicando cuál es la entrada de datos, la salida y lo que se realiza en cada línea.**~~
 
 # Review 2
 ---------------
