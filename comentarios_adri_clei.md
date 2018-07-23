@@ -9,8 +9,11 @@ de L.G. More & M.A. Brizuela, pero no se discute la comparación de
 resultados, esto es recomendable para hacer notar el avance de
 investigación.
 
-> - Se observa buena representación y discusión de los resultados con
-tablas y gráficas. En las conclusiones se sugiere profundizar más. ~~- No
+**El trabajo es un caso general del trabajo de lmore y brizuela
+Los resultados del trabajo de lmore y brizuela caen en el frente pareto del trabajo, en la esquina cuay solución corresponde a la mínima similaridad. No se consideraron pruebas experimentales debido a que los enfoques son diferentes.**
+
+> ~~- Se observa buena representación y discusión de los resultados con
+tablas y gráficas. En las conclusiones se sugiere profundizar más. - No
 mencionan como determinaron los valores de los dos parámetros del
 algoritmo CLAHE, que son: Block Size y Clip Limit, según la bibliofrafía
 del tema.~~
@@ -22,6 +25,8 @@ abreviaturas o nombres de algoritmos se referencian a su respectivo
 autor desde el primer momento en que se mencionan, tal es el caso de
 SMPSO en el 7mo párrafo de la Introducción. Arreglar idioma del resumen
 y palabras clave.
+
+**Agregar el pseudocódigo de smpso-clahe y un párrafo explicativo indicando cuál es la entrada de datos, la salida y lo que se realiza en cada línea.**
 
 # Review 2
 ---------------
@@ -39,7 +44,13 @@ claro porque el proceso SSIM presentó el mejor resultado. Puedo ver
 visualmente, sin embargo, un análisis teórico podría contestar si una
 radiografía del oído obtendría el mismo éxito.
 
-Los Comentarios arriba expuestos deben verse reflejados en el paper camera ready y en el libro.
+**Titulo y abstract deben ir en ingles**
+
+**En la tabla de correlaciones agregar una explicación de los valores de correlación negativa. Básicamente, una correlación negativa indica que el mejoramiento de una función objetivo se logra a costa del empeoramiento de la otra función objetivo en un contexto de minimización o maximización de ambas. Es decir, son funciones objetivo contradictorias.**
+
+**Agregar en trabajos futuros, el análisis de desempeño de la propuesta en imágenes de otra naturaleza.**
+
+**Los Comentarios arriba expuestos deben verse reflejados en el paper camera ready y en el libro.**
 
 ## Comentarios Internos
 ---------------
