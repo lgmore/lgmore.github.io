@@ -4,13 +4,13 @@ title: Paper CLEI 2018 de Adriana y Monserrat
 
 # Review 1
 ---------------
-> - Según la bibliografía, la investigación es una extensión del trabajo
+> ~~- Según la bibliografía, la investigación es una extensión del trabajo
 de L.G. More & M.A. Brizuela, pero no se discute la comparación de
 resultados, esto es recomendable para hacer notar el avance de
-investigación.
+investigación.~~
 
-**El trabajo es un caso general del trabajo de lmore y brizuela
-Los resultados del trabajo de lmore y brizuela caen en el frente pareto del trabajo, en la esquina cuay solución corresponde a la mínima similaridad. No se consideraron pruebas experimentales debido a que los enfoques son diferentes.**
+~~**El trabajo es un caso general del trabajo de lmore y brizuela
+Los resultados del trabajo de lmore y brizuela caen en el frente pareto del trabajo, en la esquina cuay solución corresponde a la mínima similaridad. No se consideraron pruebas experimentales debido a que los enfoques son diferentes.**~~
 
 > ~~- Se observa buena representación y discusión de los resultados con
 tablas y gráficas. En las conclusiones se sugiere profundizar más. - No
