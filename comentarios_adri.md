@@ -210,14 +210,14 @@ imagenes mejoras.~~
 
 ### 7.2. Trabajos Futuros
 
-> Los resultados experimentales obtenidos en Tabla 6.3 muestran que los pa-res de métricas Entropı́a local/SSIM demuestran ser los más contradictorios según la correlación obtenida, por tanto son más adecuado para incorporar a un proceso de optimización.
+> ~~Los resultados experimentales obtenidos en Tabla 6.3 muestran que los pa-res de métricas Entropı́a local/SSIM demuestran ser los más contradictorios según la correlación obtenida, por tanto son más adecuado para incorporar a un proceso de optimización.~~
 
-más adecuados para incorporar a un proceso de optimización
+~~más adecuados para incorporar a un proceso de optimización~~
 
-> Los resultados de las imágenes generales para SMPSO-CLAHE muestran una mejora en el contraste, manteniendo la apariencia natural de las mismas.
-Este algoritmo se muestra aplicable tanto en imágenes médicas o biométricas, mostrando resultados satisfactorios.
+> ~~Los resultados de las imágenes generales para SMPSO-CLAHE muestran una mejora en el contraste, manteniendo la apariencia natural de las mismas.
+Este algoritmo se muestra aplicable tanto en imágenes médicas o biométricas, mostrando resultados satisfactorios.~~
 
-¿imágenes generales?
+~~¿imágenes generales?~~
 
 #Otras consideraciones
 
